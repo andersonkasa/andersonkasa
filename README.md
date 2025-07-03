@@ -1,13 +1,17 @@
 # Anderson Kasa
 
+
 ## Perfil Pessoal
 Brasileiro, casado, 45 anos, São Paulo-SP.
+
 
 ## Sobre mim
 Sou um estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento e análise de dados. Em transição de carreira, com sólida experiência na coordenação de processos e projetos de melhoria contínua, com forte capacidade de análise e resolução de problemas. Durante a carreira, desenvolvi habilidades em mapeamento e otimização de processos, gestão de equipes e implementação de sistemas que garantiram ganhos significativos em eficiência operacional. Me destaco pela
 adaptabilidade, visão sistêmica e capacidade de aplicar métodos estruturados para
 solucionar desafios técnicos e operacionais.
 Tenho como atual objetivo uma oportunidade de entrada para esta área que tanto me seduz.
+
+
 ## Formação
 **Análise e Desenvolvimento de Sistemas** - Unifatecie - Cursando
 
@@ -32,10 +36,11 @@ Tenho como atual objetivo uma oportunidade de entrada para esta área que tanto 
 ## Github Stats
 
 <div>
+     <center>
      <a href="https://github.com/andersonkasa">
-    <img height="216em" width="480em" src="https://github-readme-stats.vercel.app/api?username=andersonkasa&theme=vision-friendly-dark&include_all_commits=true&show_icons=true"/>
+    <img height="216em" width="504em" src="https://github-readme-stats.vercel.app/api?username=andersonkasa&theme=vision-friendly-dark&include_all_commits=true&show_icons=true"/>
     <img height="216em" width="504em" src="https://streak-stats.demolab.com?user=andersonkasa&theme=vision-friendly-dark&hide_border=false&bolder_color=30A3DC&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat"/>
-   
+     </center>
 </div>
 
 ## 🔗 Conecte-se comigo
